@@ -1,0 +1,56 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 100px;
+  background-color: #e7e8ea;
+  background-size: 50vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.container {
+  background-image: url('https://lh3.googleusercontent.com/fife/AAbDypDolh0YZMsSyt2sVCuy1vn9mFkX8xk4sFlhCeNzIfqFgV9-WltV6AUyB_W4w-tRWvDnuEGVI1p6eb1VHBGRGX_3xSvdZAdN51xjlUX3DF1BJlP16jpBrsrkJej9QgE_CJrN8qFsj8YQsZWfLIyywB47ea46HqRfqvWaTYShFRszkSe_QylpS7ME3Zm5xp6tpY1Q4D9QdI2gZK74nTTSca7Hy-LtAoBOT4rsJ0bg05YXQhf5g5jR2PevGuCsVtpirkVP4_bWieJznIqtdDClWtrOCdeW9_AuD2d_Zxo4HJlueLEvu603e4DYBco7Ei0h9mUBzwD26l27pGZRRXgyRYF60GqAK2fgALZWW8PAc9t2P3XRFFR5MGXLhQdkNH0OTmh1wb8z5KjOZqDnvLQ4oU33rdSePxl49zTQA1mcn6JDAz9N4nAWiJ7R1HlYgV_lIMCSDXh2CmSGSiCkhKU-gx14tOv0q3IPgh2-Gi9AKFulZyV8QR6ekaamKJ6tdy3-X5Ken_MKs5nm1_Nxk9E2TDw7Nxu9PuIxkxf4BsnIi4YYJM_cwwyYseO1qy-21-MT4gnBa2HK5CSmWc5bpV8DPEMMs7ArplntBV9mfWm2jwcUSS7uV7Wqr3Y_Dz8VWJC-Sd6Pf_zE7BDHDnejaDiRukaYOIaMjR7FiaR4VnTnlFJrhc-kxZf8tBMxYQowpaRXHhjLfTUamxjt-3JruWr3IFWcCXn8Q0VAZkhoCqJnql7Vzu-XdrislZhuRnJ8DQgQovJDpXaz4qOE1jBfgFuibSHcehwFSzk6n5Hclcc0MVu7Drxh4VrMn_s3Zo0d2X9GZbC6eBt96S8P80DifWbGLM4obDTIEigM547xCMSZjOQNx5rE1raxuldm8okZ7xFTJucUEWl5PqoOSVgwmOE7nKIGbvzdfEQAhm_OAu9JYKfFn-QQDCl7QaXRcSgJDaReWmeDSmzQqrUUCJktEsrpPH8h2AL03C2sgVB6IHf1V1xKPqQnZNWhH8hyLX3LQNczHRuEdf2EFdH63Q4fYOJS6FYU1ducQfCg47SXEmK_eGHsXkAyegKUxciQRMBw4ynu2tNKfUqTUhy7vfhmsKDOUcrTmYLi-r8Q7lV3VdI3FIe2FLaoOuBaEuamfY_XRTLJ6-szxESWjXxsBEFAA5IHB2G3Str8BaupOP6z4Sw65hhC2pHQtMT-sN7WNe7taf1pPFfSpJlyo497uqOnPhag8IIfl2cBdvsUgHJ9Nqxe-xBhFjyYdYFDyJxzOOLLohgSHevdvoQTkjtcmdvuK8Gb08vcON2QL-UEvY5JmxsZTHU6r2h5WyISsqOC4UrXmFGJQ6mZE5R2g8kFvM2eTKRe3ZHiicwP61frCR4PSxhpQVzoDGDwRX0kKx6vojyB_hc0vueyHuLDtkCGesy3lQzWd2Xt09haFICLKXIqZyoWzhrOssjfoDk21OwolL8PmeL-5hx28eiphxKJ0nJyoKJDSVpLrJVL9CknknTv6X03CrwCmF6WJ8mQ=w1919-h975');
+  min-height: 100px;
+  background-size: 50vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 40px;
+  height: 70vh;
+}
+
+.page-title {
+  color:#25387a;
+  margin: 0 0 10px;
+  font-size: 50px;
+}
+
+.page-subtitle {
+  color:#25387a;
+  margin-top: 5px;
+  font-size: 20px
+  
+}
+
+section {
+  text-align: center;
+  vertical-align: middle;
+  width: 100%
+  
+}
+
+.centro {
+  color:#ffffff;
+  background-position: center;
+  top: 100%;
+  left: 50%;
+  transform: translateY(35vh);
+}
+
+.resultado {
+  font-size: 3em;
+}
+
+.botao{
+  position:absolute;
+  top:50%;
+  left:50%;
+}
