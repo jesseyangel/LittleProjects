@@ -1,2 +1,1 @@
 # LittleProjects
-Calculador de média
